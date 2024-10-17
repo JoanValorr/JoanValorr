@@ -1,6 +1,6 @@
 # 💫 About Me:
 ¡Hola! Soy Joan Valor<br><br>💻 Un apasionado de la programación<br><br>⚒️ Siempre buscando aprender y mejorar en este campo. <br><br> 📚 Me encanta leer, salir de excursión para conectar con la naturaleza, y en mis ratos libres, disfruto mucho diseñando webs, explorando la creatividad que esto ofrece. <br><br> 🎥 También soy un auténtico friki del cine, el anime, y las películas que me hacen pensar y disfrutar.<br><br>💡 Cada día es una oportunidad para descubrir algo nuevo, ya sea una tecnología, una historia o personas con las que compartir intereses y crear conexiones genuinas.<br><br> 😉 ¡Siempre hay algo fascinante por explorar!
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joan_valor/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanperezvalor/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@joanvalor10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@joanvalor) 
@@ -18,7 +18,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=JoanValorr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
