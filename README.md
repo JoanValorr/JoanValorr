@@ -1,5 +1,5 @@
-# 💫 About Me:
-¡Hola! Soy Joan Valor<br><br>💻 Un apasionado de la programación<br><br>⚒️ Siempre buscando aprender y mejorar en este campo. <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> About Me:
+💫 ¡Hola! Soy Joan Valor<br><br>💻 Un apasionado de la programación<br><br>⚒️ Siempre buscando aprender y mejorar en este campo. <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="margin-left: 150px;"/>
 <br><br> 📚 Me encanta leer, salir de excursión para conectar con la naturaleza, y en mis ratos libres, disfruto mucho diseñando webs, explorando la creatividad que esto ofrece.  <br><br> 🎥 También soy un auténtico friki del cine, el anime, y las películas que me hacen pensar y disfrutar.<br><br>💡 Cada día es una oportunidad para descubrir algo nuevo, ya sea una tecnología, una historia o personas con las que compartir intereses y crear conexiones genuinas.<br><br> 😉 ¡Siempre hay algo fascinante por explorar!
 
 ## 🌐 Socials:
