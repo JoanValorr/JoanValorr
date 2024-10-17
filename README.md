@@ -8,7 +8,7 @@
         💡 Cada día es una oportunidad para descubrir algo nuevo, ya sea una tecnología, una historia o personas con las que compartir intereses y crear conexiones genuinas.<br><br>
         😉 ¡Siempre hay algo fascinante por explorar!
     </div>
-    <img src="https://i.pinimg.com/originals/9c/fc/01/9cfc0161f686824806fb2858bc383f7e.gif" alt="Night Coding" width="400" height="250" align="right" style="margin-left: 20px;"/><br><br><br><br><br><br><br><br>
+    <img src="https://i.pinimg.com/originals/9c/fc/01/9cfc0161f686824806fb2858bc383f7e.gif" alt="Night Coding" width="400" height="250" align="right" style="margin-left: 20px;"/><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
 # 🌐 Socials: 
