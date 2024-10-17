@@ -1,14 +1,14 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> About Me:
 💫 ¡Hola! Soy Joan Valor<br><br>💻 Un apasionado de la programación<br><br>⚒️ Siempre buscando aprender y mejorar en este campo.
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="right"  style="margin-left: 50px;"/>
-  <div>
+
+<p align="left">
+    <img src="https://i.pinimg.com/originals/9c/fc/01/9cfc0161f686824806fb2858bc383f7e.gif" alt="Night Coding" align="right" width="400" height="300" hspace="-50"/>
     📚 Me encanta leer, salir de excursión para conectar con la naturaleza, y en mis ratos libres, disfruto mucho diseñando webs, explorando la creatividad que esto ofrece.  <br><br> 
     🎥 También soy un auténtico friki del cine, el anime, y las películas que me hacen pensar y disfrutar.<br><br>
     💡 Cada día es una oportunidad para descubrir algo nuevo, ya sea una tecnología, una historia o personas con las que compartir intereses y crear conexiones genuinas.<br><br>
     😉 ¡Siempre hay algo fascinante por explorar!
-  </div>
-</div>
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CdMJTRgq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joan_valor/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joanperezvalor/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@joanvalor10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@joanvalor) 
