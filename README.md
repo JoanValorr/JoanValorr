@@ -1,12 +1,18 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> About Me:
-💫 ¡Hola! Soy Joan Valor<br><br>💻 Un apasionado de la programación,  disfruto mucho diseñando webs, explorando la creatividad que esto ofrece.<br><br>⚒️ Siempre buscando aprender y mejorar en este campo.
-
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
-        📚 Me encanta leer, salir de excursión para conectar con la naturaleza en mis ratos libres.<br><br>
-        🎥 También soy un auténtico friki del cine, el anime, y las películas que me hacen pensar y disfrutar.<br><br>
-        💡 Cada día es una oportunidad para descubrir algo nuevo, ya sea una tecnología, una historia o personas con las que compartir intereses y crear conexiones genuinas.<br><br>
-        😉 ¡Siempre hay algo fascinante por explorar!
+Hola, soy Joan Perez Valor 👋<br><br>
+Acerca de mí<br><br>
+ - 🎓 Estudiante de 20 años cursando un grado superior de Desarrollo de Aplicaciones Web.<br><br>
+ - 👨‍💻 Apasionado por la programación y el desarrollo web, siempre buscando aprender y mejorar.<br><br>
+ - 🌐 Desarrollador web comprometido con la creación de soluciones innovadoras y funcionales.<br><br>
+ - 🚀 En mi tiempo libre, me encanta plantearme proyectos y retos relacionados con el fascinante mundo de la informática.<br><br>
+ - 🌿 Disfruto de relajarme y desconectar, ya sea explorando la naturaleza, viendo películas o sumergiéndome en un buen libro.<br><br>
+
+Tecnologías y Habilidades<br><br>
+ - 💻 Dominio en lenguajes como HTML, CSS, JavaScript y más.<br><br>
+ - 🌐 Experiencia en el desarrollo de aplicaciones web y diseño de interfaces.<br><br>
+ - 🔧 En proceso de aprendizaje de React y Tailwind CSS, Bootstrap.
     </div>
     <img src="https://i.pinimg.com/originals/9c/fc/01/9cfc0161f686824806fb2858bc383f7e.gif" alt="Night Coding" width="400" height="250" align="right" style="margin-left: 20px;"/><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
